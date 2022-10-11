@@ -1,0 +1,7 @@
+body {
+  width: 800px;
+  padding: 0px 100px
+}
+p, blockquote{
+  text-align: justify;
+}
